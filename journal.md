@@ -2,6 +2,7 @@
 ## author: "Anirudh Sahu"
 ## description: "A ECG(electrocardiogram) machine, which is compact and budget friendly and useful for anyone having heart related issues or in general"
 ## created_at: "2024-06-30"
+## Time spent - 11 HR
 
 ## June 30 - Created the main design and ideas
 Spent a few hours researching about ECG and heart and pulse, I do have PSVT so I had a thought in mind to create a portable ecg machine, instead of going to hospital everytime. I'll soon have my treatment but there are many people who might get helped by this tool.
@@ -21,3 +22,7 @@ Started working on the 3D, it was a bit fun after I have finished my first 3D mo
 ![ECG v1 3](https://github.com/user-attachments/assets/331c9dec-1065-4389-ae78-e4f0ffca8854)
 ![ECG v1 4](https://github.com/user-attachments/assets/8712923e-8836-47e4-9743-e6e96809404d)
 Time Spent - 6Hr
+
+## July 3 - Completed the firmware, Readme and Final BOM
+started to do some reasearch on how exactly the ecg sensor work and then took help from AI and then created a basic firmware, ( I'll definetely update this later). finalised the final BOM, created the readme
+Time Spent - 1.5 hr
