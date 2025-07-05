@@ -9,6 +9,8 @@ I have PSVT ( I am going to get the right treatment soon ) but I wanted to build
 ![ECG v1 2](https://github.com/user-attachments/assets/a707939a-ca78-4c54-b93d-79358613940c)
 ![ECG v1 3](https://github.com/user-attachments/assets/33ebc38c-db21-4870-ac13-5991df8d5550)
 ![ECG v1 4](https://github.com/user-attachments/assets/950155bb-37f2-47bf-a3e0-4398803a1d4f)
+![ecg](https://github.com/user-attachments/assets/a469c651-9b0e-4c8b-b77d-a8173f1eddfd)
+
 
 
 ## BOM
