@@ -23,6 +23,8 @@ the machine shows a real-time ECG graph on the display. It read the signals from
 ### Wiring Diagram
 ![ecg](https://github.com/user-attachments/assets/a469c651-9b0e-4c8b-b77d-a8173f1eddfd)
 
+## final build
+![photo_6102760546496530497_w](https://github.com/user-attachments/assets/d3afaa35-4997-4d5e-8a46-b460bb86e29f)
 
 
 ## BOM
