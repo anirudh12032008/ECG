@@ -26,3 +26,17 @@ Time Spent - 6Hr
 ## July 3 - Completed the firmware, Readme and Final BOM
 started to do some reasearch on how exactly the ecg sensor work and then took help from AI and then created a basic firmware, ( I'll definetely update this later). finalised the final BOM, created the readme
 Time Spent - 1.5 hr
+
+## July 24 - connected everything
+So I got all the components and the wiring was pretty easy so I just connected them and then used the code and wohh everything worked smoothly no issues faced. like literally no issues!!!!!
+![photo_6102760546496530524_w](https://github.com/user-attachments/assets/2ee9f3ff-9d3a-4633-89cb-134e0699f525)
+Time - 2hr
+
+## Aug - 4 assembly
+It was way hard then I expected it to be 😭 but still I managed to do it and I dont really have much to write as it was just gluing stuff and connecting everything
+![photo_6102760546496530520_w](https://github.com/user-attachments/assets/d1055e7a-5aa2-44fc-94d2-92ca2ddd8200)
+![photo_6102760546496530519_w](https://github.com/user-attachments/assets/61f9cf9f-bd7b-453c-b001-6dc04cc37ca8)
+![photo_6102760546496530518_w](https://github.com/user-attachments/assets/3c47e701-1ef7-456e-944a-acbc0ed93389)
+![photo_6102760546496530517_w](https://github.com/user-attachments/assets/e440222b-af62-4587-80f8-59f311dacd8c)
+![photo_6102760546496530497_w](https://github.com/user-attachments/assets/110017e2-20c8-4ec6-b35d-fc49c28228ae)
+Time - 3hr
