@@ -2,8 +2,8 @@
 ## author: "Anirudh Sahu"
 ## description: "A ECG(electrocardiogram) machine, which is compact and budget friendly and useful for anyone having heart related issues or in general"
 ## created_at: "2024-06-30"
-## Time spent - 11 HR
-
+## design Time spent - 11 HR
+## build time spent - 5hr
 ## June 30 - Created the main design and ideas
 Spent a few hours researching about ECG and heart and pulse, I do have PSVT so I had a thought in mind to create a portable ecg machine, instead of going to hospital everytime. I'll soon have my treatment but there are many people who might get helped by this tool.
 I tried to look up for what parts to include too.
